@@ -1,0 +1,15 @@
+{
+  "name": "liwei_firstcli_lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "liwei_firstcli_lib": "^1.0.0"
+  }
+}
